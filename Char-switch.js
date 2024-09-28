@@ -18,3 +18,5 @@ function switcheroo(x){
     if(e=='c') return 'c'
   }).join('');
 }
+
+// or
